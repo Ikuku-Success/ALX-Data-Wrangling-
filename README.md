@@ -1,2 +1,2 @@
-# ALX-Data-Warngling-
+# ALX-Data-Wrangling-
 Data Wrangling project
